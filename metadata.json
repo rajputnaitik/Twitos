@@ -1,0 +1,5 @@
+{
+  "name": "Twitos",
+  "description": "A modern, clean social networking web app with a blue-white theme, inspired by Twitter. It allows users to post short messages, interact with others through likes and comments, and customize their profile, all while storing data locally in the browser.",
+  "requestFramePermissions": []
+}
